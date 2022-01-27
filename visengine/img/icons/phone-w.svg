@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="11px" height="17px" viewBox="0 0 11 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_material-smartphone</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Visengine_Landing_1_mobile---1-–-3" transform="translate(-105.000000, -489.000000)" fill-rule="nonzero" fill="#FFFFFF">
+            <g id="Visengine_Landing_1_mobile_-_1_3">
+                <g id="Group_1665" transform="translate(97.000000, 488.000000)">
+                    <g id="Group_1657" transform="translate(8.500000, 0.750000)">
+                        <path d="M8.727,1.007 L1.455,1 C0.652337719,1.00219758 0.0021975819,1.65233772 0,2.455 L0,15.545 C0.0021975819,16.3476623 0.652337719,16.9978024 1.455,17 L8.728,17 C9.53066228,16.9978024 10.1808024,16.3476623 10.183,15.545 L10.183,2.455 C10.180243,1.65331137 9.52869165,1.00534001 8.727,1.007 L8.727,1.007 Z M8.727,14.091 L1.455,14.091 L1.455,3.909 L8.728,3.909 L8.727,14.091 Z" id="Icon_material-smartphone"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

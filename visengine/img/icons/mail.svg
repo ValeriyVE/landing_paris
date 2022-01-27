@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="18px" viewBox="0 0 23 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon material-mail-outline</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icon-material-mail-outline" fill-rule="nonzero" fill="#000000">
+            <path d="M20.25,0 L2.25,0 C1.01096985,0.00441023543 0.00933789473,1.01096311 0.011,2.25 L0,15.75 C0.00384312307,16.9910453 1.00895467,17.9961569 2.25,18 L20.25,18 C21.4910453,17.9961569 22.4961569,16.9910453 22.5,15.75 L22.5,2.25 C22.4961569,1.00895467 21.4910453,0.00384312307 20.25,-1.77635684e-15 L20.25,0 Z M20.25,15.75 L2.25,15.75 L2.25,4.5 L11.25,10.125 L20.25,4.5 L20.25,15.75 Z M11.25,7.875 L2.25,2.25 L20.25,2.25 L11.25,7.875 Z" id="Icon_material-mail-outline"></path>
+        </g>
+    </g>
+</svg>

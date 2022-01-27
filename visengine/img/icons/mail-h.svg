@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="13px" viewBox="0 0 16 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Icon_material-mail-outline</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Visengine_Landing_1_mobile---1-–-3" transform="translate(-97.000000, -527.000000)" fill-rule="nonzero" fill="#CCCCCC">
+            <g id="Visengine_Landing_1_mobile_-_1_3">
+                <g id="Group_1665" transform="translate(97.000000, 488.000000)">
+                    <g id="Group_1656" transform="translate(0.500000, 35.750000)">
+                        <path d="M13.5,3.5 L1.5,3.5 C0.674307855,3.50385327 0.00699100898,4.17429886 0.007,5 L0,14 C0,14.8284271 0.671572875,15.5 1.5,15.5 L13.5,15.5 C14.3284271,15.5 15,14.8284271 15,14 L15,5 C15,4.17157288 14.3284271,3.5 13.5,3.5 Z M13.5,14 L1.5,14 L1.5,6.5 L7.5,10.25 L13.5,6.5 L13.5,14 Z M7.5,8.75 L1.5,5 L13.5,5 L7.5,8.75 Z" id="Icon_material-mail-outline"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

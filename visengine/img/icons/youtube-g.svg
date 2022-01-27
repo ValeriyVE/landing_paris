@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="23px" height="17px" viewBox="0 0 23 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>youtube-d</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="youtube-d" fill-rule="nonzero" fill="#666666">
+            <path d="M22.522,2.971 C22.25287,2.002871 21.49686,1.2461 20.529,0.976 C18.745,0.498 11.563,0.498 11.563,0.498 C11.563,0.498 4.399,0.49 2.599,0.976 C1.63076,1.245797 0.87431,2.002622 0.605,2.971 C0.26614,4.797724 0.09874,6.652122 0.105,8.51 C0.10004,10.360865 0.26743,12.208172 0.605,14.028 C0.87492,14.995609 1.63126,15.751569 2.599,16.021 C4.382,16.5 11.565,16.5 11.565,16.5 C11.565,16.5 18.728,16.5 20.531,16.021 C21.49773,15.751149 22.25315,14.995727 22.523,14.029 C22.85285,12.208449 23.01254,10.361149 23,8.511 C23.01384,6.653841 22.85415,4.799449 22.523,2.972 L22.522,2.971 Z M9.271,11.937 L9.271,5.076 L15.248,8.513 L9.271,11.937 Z" id="Icon_simple-youtube"></path>
+        </g>
+    </g>
+</svg>
